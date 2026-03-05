@@ -24,5 +24,7 @@ It helps in understanding how HTML structures the page, CSS styles the interface
 - JavaScript
 
 ---
+## 📷 Project Screenshot
 
+![Calculator Interface](calculator.png)
 
