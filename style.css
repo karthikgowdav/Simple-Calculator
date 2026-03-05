@@ -1,0 +1,48 @@
+
+.container{
+    display: grid;
+    justify-self: center;   
+    align-self: center;     
+    width: 233px;
+    padding: 5px;
+    margin: 3px;
+    border: 2px solid black;
+    background-color: black;
+}
+
+.clear{
+     border-radius: 22px;
+    background-color: grey;
+
+}
+.equals{
+     border-radius: 22px;
+    background-color: grey;
+}
+.buttons{
+   background-color: black;
+    display: grid;
+    grid-template-columns: 50px 50px 50px 50px;
+    grid-template-rows: auto;
+    gap: 6px;
+    
+}
+.operator{
+    border-radius: 22px;
+    background-color: orange;
+}
+.btn{
+    border-radius: 22px;
+    background-color: grey;
+}
+
+#display{
+    background-color: grey;
+    margin-bottom: 8px;
+    height: 30px;
+    width: 220px;
+    border: 2px solid black;
+    font-size: larger;
+}
+
+
