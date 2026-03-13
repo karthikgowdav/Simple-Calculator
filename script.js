@@ -1,4 +1,5 @@
 console.log("hello world!");
+alert("welcome");
 // let btn=document.querySelector(".equals");
 // btn.addEventListener("click",()=>{
 //     alert("button was clicked!");
